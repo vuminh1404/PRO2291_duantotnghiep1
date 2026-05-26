@@ -39,7 +39,7 @@ Dự án xây dựng hệ thống phân tích doanh thu bán hàng và hành vi 
 | Tiêu chí   | Giá trị                                  |
 | ---------- | ---------------------------------------- |
 | Nguồn      | https://www.kaggle.com/datasets/datafish101/sales-06-fy2020-21-copy        |
-| Quy mô     | ~286,000 giao dịch                       |
+| Quy mô     | 286,393 giao dịch                       |
 | Thời gian  | 2020–2021                              |
 | Phạm vi    | Bán hàng thương mại điện tử              |
 | Thành phần | Sales, Customer, Product, Geography      |
