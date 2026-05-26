@@ -48,7 +48,7 @@ Dự án xây dựng hệ thống phân tích doanh thu bán hàng và hành vi 
 ---
 ##  Cấu trúc thư mục
 ```
-Sales-Analytics/
+PRO2291_duantotnghiep1/
 │
 ├── data/
 │   ├── raw/
@@ -75,11 +75,17 @@ Sales-Analytics/
 │   ├── transform.py
 │   └── forecast.py
 │
-├── dashboard/
-│   └── sales_dashboard.pbix
+├── notebooks/
+│   └── eda.ipynb
+│
+├── dashboards/
+│   └── dashboard_final.twb
 │
 ├── docs/
-│   └── report.docx
+│   ├── bao_cao_final.docx
+│   └── images/
 │
-└── README.md
+├── README.md
+├── requirements.txt
+└── .gitignore
 ```
